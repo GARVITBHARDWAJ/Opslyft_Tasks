@@ -4,7 +4,7 @@ This file is in zip form // Download it in your PC and UnZip it.
 
 This is API made for optimizing the cloud content.
 Following Tools and framework is being used to make it.
-Frameworks: Flask
-Cloud: AWS
-Language: Python,SQL,HTML
-DataBases: DynamoDB,MYSQL
+Frameworks:Flask ,
+Cloud:AWS ,
+Language:Python,SQL,HTML ,
+DataBases:DynamoDB,MYSQL
